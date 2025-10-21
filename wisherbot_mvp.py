@@ -14,7 +14,7 @@ from telegram.ext import (
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # =================== CONFIG ===================
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+BOT_TOKEN = "8438325284:AAEoWJ1vFwzbTavRu-94EyiZwixo2nVkebs"
 DB_FILE = "wisherbot.db"
 scheduler = AsyncIOScheduler()
 # ==============================================
